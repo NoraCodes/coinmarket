@@ -1,0 +1,9 @@
+Building Investcoin
+
+See doc/readme-qt.rst for instructions on building Investcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Investcoin.
+
+See doc/build-*.txt for instructions on building investcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Investcoin.
